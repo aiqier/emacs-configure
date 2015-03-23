@@ -1,0 +1,5 @@
+#name : Image
+#contributor: Peng Deng <dengpeng@gmail.com>
+# --
+
+![${1:Pic Name}](/media/pic2014/${2:picName}) $0

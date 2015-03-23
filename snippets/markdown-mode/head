@@ -1,0 +1,13 @@
+# name : Jekyll Head
+# contributor: Aiqier <liuaiqi627@gmail.com>
+# key: head
+# --
+---
+layout: post
+title: "$1"
+description: ""
+category: "work-log,practice-code,program-language,program-tools,study-note,life,amusement"
+tags: [$2]
+---
+
+$0

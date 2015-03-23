@@ -1,0 +1,6 @@
+#name : Jekyll Highlight
+#contributor: Aiqier <liuaiqi627@gmail.com>
+# --
+{% highlight ${1:python} linenos %}
+$0
+{% endhighlight%}
